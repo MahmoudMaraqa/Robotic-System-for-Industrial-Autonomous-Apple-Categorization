@@ -1,5 +1,7 @@
 # 🍎 Apple Sorting System using Raspberry Pi and CNN
 
+!\[System Overview]\(./Apples categorization.jpg)
+
 ## 📌 Project Overview
 
 The automation of fruit sorting is revolutionizing the food processing industry by enhancing efficiency, lowering operational costs, and reducing human error.
@@ -62,3 +64,11 @@ The web dashboard allows users to:
 * Improve model accuracy with a larger dataset
 * Introduce mobile access to the dashboard
 * Optimize conveyor speed based on camera detection
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open issues or pull requests for suggestions or improvements.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
