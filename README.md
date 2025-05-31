@@ -1,6 +1,6 @@
 # 🍎 Apple Sorting System using Raspberry Pi and CNN
 
-!\[System Overview]\(./Apples categorization.jpg)
+![System Overview](./Apples_categorization.jpg)
 
 ## 📌 Project Overview
 
