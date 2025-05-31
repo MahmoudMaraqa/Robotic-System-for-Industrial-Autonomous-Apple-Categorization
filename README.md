@@ -62,11 +62,3 @@ The web dashboard allows users to:
 * Improve model accuracy with a larger dataset
 * Introduce mobile access to the dashboard
 * Optimize conveyor speed based on camera detection
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open issues or pull requests for suggestions or improvements.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
